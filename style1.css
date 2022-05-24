@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding:0; 
+}
+.content img{
+    width: 330px;
+    padding: 10px;
+}
+span.overlay_text {
+    position: absolute;
+    background-color: black;
+    color: white;
+    left: 25px;
+    top: 10px;
+}
+.container {
+    height: 50px;
+}
+.card {
+    margin: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.about{
+    padding: 50px;
+}
+ .image img {
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.form {
+    padding-left: 20px;
+}
